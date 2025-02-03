@@ -1,7 +1,7 @@
 ## Hi there, I'm Cem 👋
 
-[![Linkedin: cemburakcetin](https://img.shields.io/badge/-cemburakcetin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cemburakcetin/)](https://www.linkedin.com/in/cemburakcetin/)
-[![GitHub Cem](https://img.shields.io/github/followers/cem?label=follow&style=social)](https://github.com/cmctn)
+[![LinkedIn: cemburakcetin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemburakcetin/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3548741)
 
 I’m a software developer specializing in backend development, with a focus on Java, Spring Boot, and I’ve recently been exploring Kotlin with a growing interest.
 
