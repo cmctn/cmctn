@@ -19,10 +19,18 @@ I’m a software developer specializing in backend development, with a focus on 
 ### My communities
 
 <p>
-    <img src="https://secure-content.meetupstatic.com/images/classic-events/477032021/200x113.jpg" alt="Amsterdam Java User group logo"/>
-    <img src="https://secure-content.meetupstatic.com/images/classic-events/512376250/200x113.jpg" alt="European Software Crafters logo"/>
-    <img src="https://secure-content.meetupstatic.com/images/classic-events/495222974/200x113.jpg" alt="AWSug.nl logo"/>
-    <img src="https://secure-content.meetupstatic.com/images/classic-events/512347472/200x113.jpg" alt="Coven of wisdom logo"/>
+    <a href="https://www.meetup.com/Amsterdam-Java-User-group/">
+        <img src="https://secure-content.meetupstatic.com/images/classic-events/477032021/200x113.jpg" alt="Amsterdam Java User group logo"/>
+    </a>
+    <a href="https://www.meetup.com/European-Software-Crafters/">
+        <img src="https://secure-content.meetupstatic.com/images/classic-events/512376250/200x113.jpg" alt="European Software Crafters logo"/>
+    </a>
+    <a href="https://www.meetup.com/awsugnl/">
+        <img src="https://secure-content.meetupstatic.com/images/classic-events/495222974/200x113.jpg" alt="AWSug.nl logo"/>
+    </a>
+    <a href="https://www.meetup.com/Coven-of-Wisdom/">
+        <img src="https://secure-content.meetupstatic.com/images/classic-events/512347472/200x113.jpg" alt="Coven of wisdom logo"/>
+    </a>
 </p>
 
 
