@@ -1,10 +1,9 @@
 ## Hi there, I'm Cem 👋
 
-<!--
-**cmctn/cmctn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![Linkedin: cemburakcetin](https://img.shields.io/badge/-cemburakcetin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cemburakcetin/)](https://www.linkedin.com/in/cemburakcetin/)
 
+<!--
+**cmctn/cmctn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
