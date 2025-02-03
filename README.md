@@ -1,6 +1,7 @@
 ## Hi there, I'm Cem 👋
 
 [![Linkedin: cemburakcetin](https://img.shields.io/badge/-cemburakcetin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cemburakcetin/)](https://www.linkedin.com/in/cemburakcetin/)
+[![GitHub Cem](https://img.shields.io/github/followers/cem?label=follow&style=social)](https://github.com/cmctn)
 
 <!--
 **cmctn/cmctn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
