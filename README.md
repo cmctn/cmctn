@@ -16,10 +16,9 @@ I’m a software developer specializing in backend development, with a focus on 
 
 
 
-### My communities and meetups I attend
+### My communities
 
 <p>
-    <img src="https://secure-content.meetupstatic.com/images/classic-events/516130104/200x113.jpg" alt="iSAQB Software Architecture Community NL logo"/>
     <img src="https://secure-content.meetupstatic.com/images/classic-events/477032021/200x113.jpg" alt="Amsterdam Java User group logo"/>
     <img src="https://secure-content.meetupstatic.com/images/classic-events/512376250/200x113.jpg" alt="European Software Crafters logo"/>
     <img src="https://secure-content.meetupstatic.com/images/classic-events/495222974/200x113.jpg" alt="AWSug.nl logo"/>
