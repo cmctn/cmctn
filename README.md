@@ -28,7 +28,7 @@ I’m a software developer specializing in backend development, with a focus on 
     <a href="https://www.meetup.com/awsugnl/">
         <img src="https://secure-content.meetupstatic.com/images/classic-events/495222974/200x113.jpg" alt="AWSug.nl logo"/>
     </a>
-    <a href="https://www.meetup.com/Coven-of-Wisdom/">
+    <a href="https://www.meetup.com/coven-of-wisdom-utrecht">
         <img src="https://secure-content.meetupstatic.com/images/classic-events/512347472/200x113.jpg" alt="Coven of wisdom logo"/>
     </a>
 </p>
