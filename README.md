@@ -9,11 +9,10 @@ I’m a software developer specializing in backend development, with a focus on 
 ![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=777BB4)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot&color=6DB33F)
+![Google Cloud](https://img.shields.io/badge/Cloud-GoogleCloud-informational?style=flat&logo=googlecloud&color=4285F4)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&color=FF9900)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&color=0078D4)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
-
-
 
 
 ### My communities
